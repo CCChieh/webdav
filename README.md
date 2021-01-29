@@ -32,6 +32,6 @@ rules: []
 users:
   - username: username
     password: password
-    scope: /webdav
+    scope: /data
 ```
 
